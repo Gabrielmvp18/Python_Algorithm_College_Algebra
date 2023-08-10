@@ -1,0 +1,2 @@
+# Python_Algorithm_College_Algebra
+ PORTUGUESE -> Desafio passado pelo meu professor da faculdade de Álgebra para realizarmos com papel, porém decidi fazer um algoritmo simples que faz a leitura do produto e da máquina e me dá o quanto ela produziu de acordo com a matriz oferecida pelo professor.  ENGLISH-> Challenge given by my college Algebra professor to be done on paper. However, I decided to create a simple algorithm that reads the product and machine information and tells me how much was produced based on the matrix provided by the professor.
